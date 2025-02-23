@@ -1,0 +1,9 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;         /* 白い背景 */      /* 鮮やかな青の枠線 */
+  border-radius: 8px;               /* 角を丸く */
+  margin-bottom: 10px;
+  color: #333;
+}
